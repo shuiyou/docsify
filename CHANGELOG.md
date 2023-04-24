@@ -1,3 +1,8 @@
+# [4.13.1](https://github.com/docsifyjs/docsify/compare/v4.12.4...v4.13.0) (2022-10-28)
+### Bug Fixes
+
+* cornerExternalLinkTarget config. ([#1814](https://github.com/docsifyjs/docsify/issues/1814)) ([54cc5f9]
+* 
 # [4.13.0](https://github.com/docsifyjs/docsify/compare/v4.12.4...v4.13.0) (2022-10-26)
 
 
